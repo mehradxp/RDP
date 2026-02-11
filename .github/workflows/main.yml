@@ -1,5 +1,3 @@
-
-FreeRDP
 name: RDP
 
 
@@ -216,4 +214,3 @@ jobs:
               Start-Sleep -Seconds 300
 
           }
-
